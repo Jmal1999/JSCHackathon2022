@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/JSCHackathon2022/static/css/main.b7d2ff29.css",
+    "main.js": "/JSCHackathon2022/static/js/main.df2e8bad.js",
+    "static/media/rocketvid.gif": "/JSCHackathon2022/static/media/rocketvid.11ab2895933ce089ad5a.gif",
+    "static/media/moon2.png": "/JSCHackathon2022/static/media/moon2.6f117b4ed32d36314836.png",
+    "static/media/space_back.jpeg": "/JSCHackathon2022/static/media/space_back.54d317aeb2e37c8d3683.jpeg",
+    "index.html": "/JSCHackathon2022/index.html",
+    "main.b7d2ff29.css.map": "/JSCHackathon2022/static/css/main.b7d2ff29.css.map",
+    "main.df2e8bad.js.map": "/JSCHackathon2022/static/js/main.df2e8bad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7d2ff29.css",
+    "static/js/main.df2e8bad.js"
+  ]
+}
